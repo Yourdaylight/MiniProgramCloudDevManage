@@ -1,0 +1,5 @@
+Flask_SQLAlchemy==2.4.4
+requests_toolbelt==0.9.1
+Flask==1.1.2
+requests==2.27.1
+Flask_Cors==3.0.4
